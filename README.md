@@ -44,3 +44,9 @@ To use this, simply click the generate password button.  A series of prompts wil
 The selected characters are added to an array, and then a character is selected using `Math.Random()` and pushed to an array.  The array is then joined to a string and added to the HTML.
 
 See the [MDN Web Docs on Math.Random()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random) for security warnings.  This is simply an example project and should not be used for important security concerns.
+
+---
+
+## Sample Image:
+
+![Image of the application](./Assets/screencap.png)
